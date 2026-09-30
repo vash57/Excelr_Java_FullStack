@@ -15,7 +15,7 @@ public class Nested_If_Else2 {
 	{
 		Scanner    sc          = new Scanner(System.in);   //how to make an object in java
 	//  classname  objectnamec = new classname();
-		System.out.println("Enter your percentage");       //AdultAndMinor     age>=18
+		System.out.println("Enter your percentage: ");       //AdultAndMinor     age>=18
 		
 		double percentage=sc.nextDouble();  //percentage=25.0
 		
@@ -43,3 +43,12 @@ public class Nested_If_Else2 {
 	}
 
 }
+
+
+/* Output
+
+Enter your percentage: 
+66
+First Class
+Thank You!!!
+*/

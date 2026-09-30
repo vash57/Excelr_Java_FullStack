@@ -13,13 +13,13 @@ public class SwitchCaseDemo {
 
 	public static void main(String[] args) 
 	{
-		Scanner    sc          = new Scanner(System.in);   
+		Scanner    sc        = new Scanner(System.in);   
 	
 		System.out.println("1. English");       //AdultAndMinor     age>=18
 		System.out.println("2. Hindi");
 		System.out.println("3. Marathi");
 		
-		System.out.println("Enter Choice");   //choice=3
+		System.out.println("Enter Choice: ");   //choice=3
 		int choice = sc.nextInt();
 		
 		switch(choice)
@@ -39,3 +39,13 @@ public class SwitchCaseDemo {
 	}
 
 }
+
+/*
+1. English
+2. Hindi
+3. Marathi
+Enter Choice: 
+3
+Call routed to Mumbai
+Have a nice day ahead!!!
+*/

@@ -19,7 +19,7 @@ public class Nested_If_Else3 {
 		System.out.println("2. Hindi");
 		System.out.println("3. Marathi");
 		
-		System.out.println("Enter Choice");   //choice=4
+		System.out.println("Enter Choice: ");   //choice=4
 		int choice = sc.nextInt();
 		
 		// = assignemtn
@@ -50,3 +50,13 @@ public class Nested_If_Else3 {
 	}
 
 }
+
+/*
+1. English
+2. Hindi
+3. Marathi
+Enter Choice: 
+2
+Call routed to Delhi
+Have anice day ahead!!!
+*/

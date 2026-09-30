@@ -14,6 +14,12 @@ public class AdditionTwoNumber {
 
 }
 
+/* Output
+
+
+30
+The Sum is:30
+*/
 /*
 dev kumar chaubey
 

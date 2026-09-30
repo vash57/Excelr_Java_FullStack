@@ -7,9 +7,9 @@ public class AdditionTwoHeights {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);   //ctrl + shitt + O (Orange)
 		
-		System.out.println("Please enter height of person 1");
+		System.out.println("Please enter height of person 1: ");
 		double height1=sc.nextDouble();
-		System.out.println("Please enter height of person 2");
+		System.out.println("Please enter height of person 2: ");
 		double height2=sc.nextDouble();
 		
 		double sumHeight=height1+height2;
@@ -31,12 +31,19 @@ public class AdditionTwoHeights {
 }
 
 
+/* Output
+
+
+Please enter height of person 1: 
+160
+Please enter height of person 2: 
+120
+The Sum of heights is  280.0
+
+*/
+
 /*
 mahendra singh dhoni 
 PascalCase : MahendraSinghDhoni    // for class name we will follow pascal case
 camelCase : mahendraSinghDhoni 
-
-
-
-
 */

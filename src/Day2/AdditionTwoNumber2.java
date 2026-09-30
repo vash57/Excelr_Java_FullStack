@@ -20,6 +20,16 @@ public class AdditionTwoNumber2 {
 
 }
 
+/* Output
+
+Please Enter First Number: 
+76
+Please Enter Second Number: 
+45
+The Sum is:121
+
+*/
+
 /*
 dev kumar chaubey
 

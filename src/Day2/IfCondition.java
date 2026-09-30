@@ -7,7 +7,7 @@ public class IfCondition {
 	public static void main(String[] args) 
 	{
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter your percentage");       //AdultAndMinor     age>=18
+		System.out.println("Enter your percentage: ");       //AdultAndMinor     age>=18
 		
 		double percentage=sc.nextDouble();  //percentage=38.5
 		
@@ -26,3 +26,11 @@ public class IfCondition {
 	}
 
 }
+
+/* Output
+
+Enter your percentage: 
+89.2
+Pass
+Thank You!!!
+*/
